@@ -1,0 +1,36 @@
+/*селектор {
+    свойства: значение;
+    свойство: значение;
+    свойство: значение;
+}*/
+
+body {
+    background-color:#fdfddd;
+}
+h1 {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;    
+    /*font-style: italic;*/
+    /*text-decoration: underline;*/ /*подчеркнутый текст*/
+   /* text-decoration:line-through; /*зачеркнутый текст*/
+   font-size: 30px;
+}
+h3 {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;    
+    /*font-style: italic;*/
+    /*text-decoration: underline;*/ /*подчеркнутый текст*/
+   /* text-decoration:line-through; /*зачеркнутый текст*/
+   font-size: 20px;
+}
+.True {
+    font-style: italic;
+}
+.text {
+    font-style: italic;
+    
+}
